@@ -1,0 +1,13 @@
+{
+  "12.0": [
+    "Huge speed improvement during the Unfollower Finder scan",
+    "Most data-gathering tasks now happen silently in the background",
+    "Added \"Slow mode\" toggle for slower computers or connections"
+  ],
+  "11.0": [
+    "Added Mass Follower Feature",
+    "Added Unfollower Finder that supports lists over 6400",
+    "Huge UI Overhaul",
+    "Added Update Checker"
+  ]
+}
