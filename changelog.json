@@ -1,8 +1,8 @@
 {
   "13.0": [
-    "Various UI & UX Improvements",
-    "Stability and Speed Improvements",
-    "Debug Mode added"
+    "UI & UX Improvements",
+    "Speed Improvements",
+    "Stability Improvements"
   ],
   "12.0": [
     "Huge speed improvement during the Unfollower Finder scan",
