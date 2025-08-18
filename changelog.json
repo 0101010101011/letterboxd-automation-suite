@@ -1,4 +1,9 @@
 {
+  "14.0": [
+    "Full user interface overhaul, making it less cluttered and more intuitive",
+    "Automated username detection on first run",
+    "Numerous bug fixes and improvements"
+  ],
   "13.0": [
     "UI & UX Improvements",
     "Speed Improvements",
