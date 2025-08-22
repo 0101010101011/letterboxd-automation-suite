@@ -1,4 +1,11 @@
 {
+  "15.0": [
+    "Improved the Adaptive Scanner tuning for speed and stability",
+    "Added live stats to the Unfollower Finder & Automated Mass Follower tasks",
+    "Added an extra verification step to prevent false positives",
+    "Improved the Follow/Unfollow All accuracy",
+    "UI and Log refinements"
+  ],
   "14.0": [
     "Full user interface overhaul, making it less cluttered and more intuitive",
     "Automated username detection on first run",
