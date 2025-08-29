@@ -8,31 +8,31 @@
     "- Numerous stability improvements and bug fixes."
   ],
   "15.0": [
-    "Improved the Adaptive Scanner tuning for speed and stability",
-    "Added live stats to the Unfollower Finder & Automated Mass Follower tasks",
-    "Added an extra verification step to prevent false positives",
-    "Improved the Follow/Unfollow All accuracy",
-    "UI and Log refinements"
+    "- Improved the Adaptive Scanner tuning for speed and stability",
+    "- Added live stats to the Unfollower Finder & Automated Mass Follower tasks",
+    "- Added an extra verification step to prevent false positives",
+    "- Improved the Follow/Unfollow All accuracy",
+    "- UI and Log refinements"
   ],
   "14.0": [
-    "Full user interface overhaul, making it less cluttered and more intuitive",
-    "Automated username detection on first run",
-    "Numerous bug fixes and improvements"
+    "- Full user interface overhaul, making it less cluttered and more intuitive",
+    "- Automated username detection on first run",
+    "- Numerous bug fixes and improvements"
   ],
   "13.0": [
-    "UI & UX Improvements",
-    "Speed Improvements",
-    "Stability Improvements"
+    "- UI & UX Improvements",
+    "- Speed Improvements",
+    "- Stability Improvements"
   ],
   "12.0": [
-    "Huge speed improvement during the Unfollower Finder scan",
-    "Most data-gathering tasks now happen silently in the background",
-    "Added \"Slow mode\" toggle for slower computers or connections"
+    "- Huge speed improvement during the Unfollower Finder scan",
+    "- Most data-gathering tasks now happen silently in the background",
+    "- Added \"Slow mode\" toggle for slower computers or connections"
   ],
   "11.0": [
-    "Added Mass Follower Feature",
-    "Added Unfollower Finder that supports lists over 6400",
-    "Huge UI Overhaul",
-    "Added Update Checker"
+    "- Added Mass Follower Feature",
+    "- Added Unfollower Finder that supports lists over 6400",
+    "- Huge UI Overhaul",
+    "- Added Update Checker"
   ]
 }
