@@ -1,4 +1,12 @@
 {
+  "16.0": [
+    "Introducing Smart Unfollow: A powerful new feature that identifies and unfollows the users not engaged with your content by analyzing who has liked your reviews.",
+    "The interface has been updated with a light/dark mode theme toggle, a new resizable log drawer, improved scaling on smaller screens, and new tooltips to clarify features.",
+    "You can now pause any running task and resume it later, giving you full control over the process.",
+    "You can now customize the Action Batch Size and Verification Pass Threshold directly in the settings for more granular control over performance and accuracy.",
+    "Backup & Restore: Easily export all your settings and whitelists to a single file for backup, or restore your configuration from an existing file.",
+    "Numerous stability improvements and bug fixes."
+  ],
   "15.0": [
     "Improved the Adaptive Scanner tuning for speed and stability",
     "Added live stats to the Unfollower Finder & Automated Mass Follower tasks",
