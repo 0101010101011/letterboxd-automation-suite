@@ -5,16 +5,16 @@
     "- Improved Engagement List management with a new Delete button and an Age Warning setting to help ensure your data is always fresh",
     "- Automated the Block List: Users who have blocked you are now automatically added to your Block List during Follow tasks",
     "- Added a Help icon to the header for quick access to the new online user guide",
-    "- Overhauled the User Interface with a cleaner, more balanced layout, a reorganized Settings page, and improved button styles",
+    "- Overhauled the User Interface with a cleaner, more balanced layout, a reorganised Settings page, and improved button styles",
     "- Numerous bug fixes and stability improvements for a smoother user experience"
   ],
   "16.0": [
-    "- Introducing Smart Unfollow: A powerful new feature that identifies and unfollows users not engaged with your content by analysing who has liked your reviews.",
-    "- The interface has been updated with a light/dark mode theme toggle, a new resizable log drawer, improved scaling on smaller screens, and new tooltips to clarify features.",
-    "- You can now pause any running task and resume it later, giving you full control over the process.",
-    "- You can now customise the Action Batch Size and Verification Pass Threshold directly in the settings for more granular control over performance and accuracy.",
-    "- Backup & Restore: Easily export all your settings and whitelists to a single file for backup, or restore your configuration from an existing file.",
-    "- Numerous stability improvements and bug fixes."
+    "- Introducing Smart Unfollow: A powerful new feature that identifies and unfollows users not engaged with your content by analysing who has liked your reviews",
+    "- The interface has been updated with a light/dark mode theme toggle, a new resizable log drawer, improved scaling on smaller screens, and new tooltips to clarify features",
+    "- You can now pause any running task and resume it later, giving you full control over the process",
+    "- You can now customise the Action Batch Size and Verification Pass Threshold directly in the settings for more granular control over performance and accuracy",
+    "- Backup & Restore: Easily export all your settings and whitelists to a single file for backup, or restore your configuration from an existing file",
+    "- Numerous stability improvements and bug fixes"
   ],
   "15.0": [
     "- Improved the Adaptive Scanner tuning for speed and stability",
