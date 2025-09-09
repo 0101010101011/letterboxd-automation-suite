@@ -1,4 +1,13 @@
 {
+  "17.0": [
+    "- Added the Review Auto-Liker, a powerful new tool to automatically like recent reviews from users on your Engagement List",
+    "- Enhanced the Unfollower Finder to include a new, optional results column: \"Engaged users you don't follow\"",
+    "- Improved Engagement List management with a new Delete button and an Age Warning setting to help ensure your data is always fresh",
+    "- Automated the Block List: Users who have blocked you are now automatically added to your Block List during Follow tasks",
+    "- Added a Help icon to the header for quick access to the new online user guide",
+    "- Overhauled the User Interface with a cleaner, more balanced layout, a reorganized Settings page, and improved button styles",
+    "- Numerous bug fixes and stability improvements for a smoother user experience"
+  ],
   "16.0": [
     "- Introducing Smart Unfollow: A powerful new feature that identifies and unfollows users not engaged with your content by analysing who has liked your reviews.",
     "- The interface has been updated with a light/dark mode theme toggle, a new resizable log drawer, improved scaling on smaller screens, and new tooltips to clarify features.",
