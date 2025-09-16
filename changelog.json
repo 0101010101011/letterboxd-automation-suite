@@ -1,4 +1,12 @@
 {
+  "18.0": [
+    "- Added checkboxes to all results lists, allowing users to select specific profiles for batch follow/unfollow actions",
+    "- Enhanced the Review Auto-Liker to process all pages of a user's reviews, not just the first page",
+    "- Implemented rate limit detection for the Review Auto-Liker. The task will now automatically stop to protect your account",
+    "- When you unfollow a user that you originally followed from the 'Engaged' list, they are now automatically added to the Exclusion List",
+    "- The \"Excluded Engaged Users\" list and the \"Persistent Block List\" are now fully manageable from dedicated sections in the Settings tab",
+    "- Resolved multiple bugs and improved overall stability"
+  ],
   "17.0": [
     "- Added the Review Auto-Liker, a powerful new tool to automatically like recent reviews from users on your Engagement List",
     "- Enhanced the Unfollower Finder to include a new, optional results column: \"Engaged users you don't follow\"",
