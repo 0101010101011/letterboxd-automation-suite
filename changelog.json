@@ -1,4 +1,12 @@
 {
+  "19.0": [
+    "- Improved onboarding experience with a new welcome screen and the option to restore backups. Please make a backup from the Settings tab before updating.",
+    "- Completely redesigned the update modal with a cleaner UI, backup prompts, and a \"How to Update\" guide.",
+    "- Added \"Export All to CSV\" and \"Clear All Results\" buttons to the top of the Results tab for easier data management.",
+    "- Optimized the Automated Mass Follower for improved speed, while maintaining safe, human-like delays to protect your account.",
+    "- Upgraded the live progress display with more detailed, real-time statistics for all automated tasks.",
+    "- Numerous bug fixes, logging improvements, and under-the-hood optimizations for enhanced stability and performance."
+  ],
   "18.0": [
     "- Added checkboxes to all results lists, allowing users to select specific profiles for batch follow/unfollow actions",
     "- Enhanced the Review Auto-Liker to process all pages of a user's reviews, not just the first page",
