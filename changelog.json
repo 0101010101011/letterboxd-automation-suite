@@ -3,61 +3,61 @@
     "- Improved onboarding experience with a new welcome screen and the option to restore backups. Please make a backup from the Settings tab before updating.",
     "- Completely redesigned the update modal with a cleaner UI, backup prompts, and a \"How to Update\" guide.",
     "- Added \"Export All to CSV\" and \"Clear All Results\" buttons to the top of the Results tab for easier data management.",
-    "- Optimized the Automated Mass Follower for improved speed, while maintaining safe, human-like delays to protect your account.",
+    "- Optimised the Automated Mass Follower for improved speed, while maintaining safe, human-like delays to protect your account.",
     "- Upgraded the live progress display with more detailed, real-time statistics for all automated tasks.",
-    "- Numerous bug fixes, logging improvements, and under-the-hood optimizations for enhanced stability and performance."
+    "- Numerous bug fixes, logging improvements, and under-the-hood optimisations for enhanced stability and performance."
   ],
   "18.0": [
-    "- Added checkboxes to all results lists, allowing users to select specific profiles for batch follow/unfollow actions",
-    "- Enhanced the Review Auto-Liker to process all pages of a user's reviews, not just the first page",
-    "- Implemented rate limit detection for the Review Auto-Liker. The task will now automatically stop to protect your account",
-    "- When you unfollow a user that you originally followed from the 'Engaged' list, they are now automatically added to the Exclusion List",
-    "- The \"Excluded Engaged Users\" list and the \"Persistent Block List\" are now fully manageable from dedicated sections in the Settings tab",
-    "- Resolved multiple bugs and improved overall stability"
+    "- Added checkboxes to all results lists, allowing users to select specific profiles for batch follow/unfollow actions.",
+    "- Enhanced the Review Auto-Liker to process all pages of a user's reviews, not just the first page.",
+    "- Implemented rate limit detection for the Review Auto-Liker. The task will now automatically stop to protect your account.",
+    "- When you unfollow a user that you originally followed from the 'Engaged' list, they are now automatically added to the Exclusion List.",
+    "- The \"Excluded Engaged Users\" list and the \"Persistent Block List\" are now fully manageable from dedicated sections in the Settings tab.",
+    "- Resolved multiple bugs and improved overall stability."
   ],
   "17.0": [
-    "- Added the Review Auto-Liker, a powerful new tool to automatically like recent reviews from users on your Engagement List",
-    "- Enhanced the Unfollower Finder to include a new, optional results column: \"Engaged users you don't follow\"",
-    "- Improved Engagement List management with a new Delete button and an Age Warning setting to help ensure your data is always fresh",
-    "- Automated the Block List: Users who have blocked you are now automatically added to your Block List during Follow tasks",
-    "- Added a Help icon to the header for quick access to the new online user guide",
-    "- Overhauled the User Interface with a cleaner, more balanced layout, a reorganised Settings page, and improved button styles",
-    "- Numerous bug fixes and stability improvements for a smoother user experience"
+    "- Added the Review Auto-Liker, a powerful new tool to automatically like recent reviews from users on your Engagement List.",
+    "- Enhanced the Unfollower Finder to include a new, optional results column: \"Engaged users you don't follow\".",
+    "- Improved Engagement List management with a new Delete button and an Age Warning setting to help ensure your data is always fresh.",
+    "- Automated the Block List: Users who have blocked you are now automatically added to your Block List during Follow tasks.",
+    "- Added a Help icon to the header for quick access to the new online user guide.",
+    "- Overhauled the User Interface with a cleaner, more balanced layout, a reorganised Settings page, and improved button styles.",
+    "- Numerous bug fixes and stability improvements for a smoother user experience."
   ],
   "16.0": [
-    "- Introducing Smart Unfollow: A powerful new feature that identifies and unfollows users not engaged with your content by analysing who has liked your reviews",
-    "- The interface has been updated with a light/dark mode theme toggle, a new resizable log drawer, improved scaling on smaller screens, and new tooltips to clarify features",
-    "- You can now pause any running task and resume it later, giving you full control over the process",
-    "- You can now customise the Action Batch Size and Verification Pass Threshold directly in the settings for more granular control over performance and accuracy",
-    "- Backup & Restore: Easily export all your settings and whitelists to a single file for backup, or restore your configuration from an existing file",
-    "- Numerous stability improvements and bug fixes"
+    "- Introducing Smart Unfollow: A powerful new feature that identifies and unfollows users not engaged with your content by analysing who has liked your reviews.",
+    "- The interface has been updated with a light/dark mode theme toggle, a new resizable log drawer, improved scaling on smaller screens, and new tooltips to clarify features.",
+    "- You can now pause any running task and resume it later, giving you full control over the process.",
+    "- You can now customise the Action Batch Size and Verification Pass Threshold directly in the settings for more granular control over performance and accuracy.",
+    "- Backup & Restore: Easily export all your settings and whitelists to a single file for backup, or restore your configuration from an existing file.",
+    "- Numerous stability improvements and bug fixes."
   ],
   "15.0": [
-    "- Improved the Adaptive Scanner tuning for speed and stability",
-    "- Added live stats to the Unfollower Finder & Automated Mass Follower tasks",
-    "- Added an extra verification step to prevent false positives",
-    "- Improved the Follow/Unfollow All accuracy",
-    "- UI and Log refinements"
+    "- Improved the Adaptive Scanner tuning for speed and stability.",
+    "- Added live stats to the Unfollower Finder & Automated Mass Follower tasks.",
+    "- Added an extra verification step to prevent false positives.",
+    "- Improved the Follow/Unfollow All accuracy.",
+    "- UI and Log refinements."
   ],
   "14.0": [
-    "- Full user interface overhaul, making it less cluttered and more intuitive",
-    "- Automated username detection on first run",
-    "- Numerous bug fixes and improvements"
+    "- Full user interface overhaul, making it less cluttered and more intuitive.",
+    "- Automated username detection on first run.",
+    "- Numerous bug fixes and improvements."
   ],
   "13.0": [
-    "- UI & UX Improvements",
-    "- Speed Improvements",
-    "- Stability Improvements"
+    "- UI & UX Improvements.",
+    "- Speed Improvements.",
+    "- Stability Improvements."
   ],
   "12.0": [
-    "- Huge speed improvement during the Unfollower Finder scan",
-    "- Most data-gathering tasks now happen silently in the background",
-    "- Added \"Slow mode\" toggle for slower computers or connections"
+    "- Huge speed improvement during the Unfollower Finder scan.",
+    "- Most data-gathering tasks now happen silently in the background.",
+    "- Added \"Slow mode\" toggle for slower computers or connections."
   ],
   "11.0": [
-    "- Added Mass Follower Feature",
-    "- Added Unfollower Finder that supports lists over 6400",
-    "- Huge UI Overhaul",
-    "- Added Update Checker"
+    "- Added Mass Follower Feature.",
+    "- Added Unfollower Finder that supports lists over 6400.",
+    "- Huge UI Overhaul.",
+    "- Added Update Checker."
   ]
 }
