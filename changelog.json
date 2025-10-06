@@ -1,6 +1,6 @@
 {
   "20.0": [
-    "- Major update! Please make sure to create a backup from the Settings tab before updating.",
+    "- Major update! Please make sure to create a backup before updating.",
     "- Engagement features have been fully reworked into a new dedicated tab with a rich UI.",
     "- The new table can be sorted by likes given, likes received, and engagement \"Debt\".",
     "- The Review Auto-Liker is now more powerful and integrated directly into the new UI.",
