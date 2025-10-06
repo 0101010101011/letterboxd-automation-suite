@@ -1,4 +1,12 @@
 {
+  "20.0": [
+    "- Major update! Please make sure to create a backup from the Settings tab before updating.",
+    "- Engagement features have been fully reworked into a new dedicated tab with a rich UI.",
+    "- The new table can be sorted by likes given, likes received, and engagement \"Debt\".",
+    "- The Review Auto-Liker is now more powerful and integrated directly into the new UI.",
+    "- Added the \"Debt Payoff\" task to automatically reciprocate likes to your most active followers.",
+    "- Includes numerous bug-fixes and UI improvements for a more stable and polished experience."
+  ],
   "19.0": [
     "- Improved onboarding experience with a new welcome screen and the option to restore backups. Please make a backup from the Settings tab before updating.",
     "- Completely redesigned the update modal with a cleaner UI, backup prompts, and a \"How to Update\" guide.",
