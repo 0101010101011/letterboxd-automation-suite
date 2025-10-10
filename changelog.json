@@ -1,4 +1,7 @@
 {
+  "20.5": [
+    "- This update fixes a few bugs, including an issue with the review auto-liker. Would recommend updating for the best experience."
+  ],
   "20.0": [
     "- Major update! Please make sure to create a backup before updating.",
     "- Engagement features have been fully reworked into a new dedicated tab with a rich UI.",
