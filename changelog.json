@@ -1,4 +1,11 @@
 {
+  "21.0": [
+    "- Revamped the 24-Hour Activity panel with a new design and expanded stats, now also tracking Review Likes Given and Engagement List Updates.",
+    "- Implemented throttle detection for the Automated Follow task; automatically focuses worker tabs to prevent browser-induced slowdowns.",
+    "- The Review Auto-Liker & Debt Payoff tasks now save their progress, remembering the last page processed for each user to save time on future runs.",
+    "- Numerous UI and workflow enhancements for a cleaner experience.",
+    "- Significant under-the-hood bug fixes and performance optimisations."
+  ],
   "20.5": [
     "- This update fixes a few bugs, including an issue with the review auto-liker. Would recommend updating for the best experience."
   ],
