@@ -1,8 +1,9 @@
 {
   "21.0": [
-    "- Revamped the 24-Hour Activity panel with a new design and expanded stats, now also tracking Review Likes Given and Engagement List Updates.",
-    "- Implemented throttle detection for the Automated Follow task; automatically focuses worker tabs to prevent browser-induced slowdowns.",
+    "- Upgraded the Debt Payoff task to run with multiple concurrent tabs, dramatically increasing its processing speed.",
     "- The Review Auto-Liker & Debt Payoff tasks now save their progress, remembering the last page processed for each user to save time on future runs.",
+    "- Implemented throttle detection for the Automated Follow task; automatically focuses worker tabs to prevent browser-induced slowdowns.",
+    "- Revamped the 24-Hour Activity panel with a new design and expanded stats, now also tracking Review Likes Given and Engagement List Updates.",
     "- Numerous UI and workflow enhancements for a cleaner experience.",
     "- Significant under-the-hood bug fixes and performance optimisations."
   ],
