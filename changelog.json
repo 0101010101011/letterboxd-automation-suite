@@ -1,6 +1,6 @@
 {
   "21.3": [
-    "- This update fixes a few more bugs & some visual inconsistencies, and makes the \"Focus Active Tab\" setting affect all tasks which use tabs. Use this if you experience issues with tasks slowing down for no apparent reason (browser throttling)."
+    "- This update fixes a few more bugs & some visual inconsistencies, and makes the \"Focus Active Tab\" setting affect all tasks which use tabs. Use this setting if you notice tasks slowing down or stalling for no apparent reason (browser throttling)."
   ],
   "21.0": [
     "- Upgraded the Debt Payoff task to run with multiple concurrent tabs, dramatically increasing its processing speed.",
