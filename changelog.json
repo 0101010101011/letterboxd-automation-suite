@@ -1,4 +1,10 @@
 {
+  "21.5": [
+    "- Fixed a critical bug which was causing the Automated Mass Follower task to count previously followed users as new.",
+    "- Fixed the progress bar for the Auto-Liker, Debt Payoff and Mass Automated Follower tasks so it's more accurate and useful.",
+    "- Made the Auto-Focus system switch back to the worker tab as many times as needed instead of only once per session.",
+    "- Fixed some UI related bugs"
+  ],
   "21.3": [
     "- This update fixes a few more bugs & some visual inconsistencies, and makes the \"Focus Active Tab\" setting affect all tasks which use tabs. Use this setting if you notice tasks slowing down or stalling for no apparent reason (browser throttling)."
   ],
