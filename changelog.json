@@ -1,4 +1,11 @@
 {
+  "21.8": [
+    "- Refined the Light Mode UI for better visual consistency with Dark Mode.",
+    "- Resolved inaccurate progress bar reporting for the Automated Follow and Debt Payoff tasks.",
+    "- Addressed a Brave Browser bug that caused incorrect date formats for international users.",
+    "- Fixed visual alignment bugs on the Results tab and in the Engagement List.",
+    "- General under-the-hood stability fixes and optimizations."
+  ],
   "21.5": [
     "- Fixed a critical bug which was causing the Automated Mass Follower task to count previously followed users as new.",
     "- Fixed the progress bar for the Auto-Liker, Debt Payoff and Mass Automated Follower tasks so it's more accurate and useful.",
