@@ -4,7 +4,7 @@
     "- Resolved inaccurate progress bar reporting for the Automated Follow and Debt Payoff tasks.",
     "- Addressed a Brave Browser bug that caused incorrect date formats for international users.",
     "- Fixed visual alignment bugs on the Results tab and in the Engagement List.",
-    "- General under-the-hood stability fixes and optimizations."
+    "- General under-the-hood stability fixes and optimisations."
   ],
   "21.5": [
     "- Fixed a critical bug which was causing the Automated Mass Follower task to count previously followed users as new.",
