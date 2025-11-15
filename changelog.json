@@ -5,8 +5,8 @@
     "- Animated Progress Bar: All running tasks now display a vibrant animated progress bar. The animation even pauses when you pause the task.",
     "- Hide Excluded Users: You can now toggle a new setting to hide users from your \"Excluded\" list in the Engagement List table.",
     "- Users on your \"Excluded\" list will now be automatically removed from it if they follow you at a later time.",
-    "- Stability Fix: Patched a critical bug that could cause review liker tasks to hang indefinitely.",
-    "- The log drawer will now automatically minimize when you visit the Settings tab (if no task is running) to give you more space.",
+    "- Stability Fix: Patched a critical bug that could cause review-liking tasks to hang indefinitely.",
+    "- The log drawer will now automatically minimise when you visit the Settings tab (if no task is running) to give you more space.",
     "- And much more... Includes a huge number of under-the-hood bug fixes, performance tweaks, and minor UI polish."
   ],
   "21.8": [
