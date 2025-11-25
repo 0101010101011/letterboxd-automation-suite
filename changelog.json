@@ -1,4 +1,13 @@
 {
+  "23.0": [
+    "- New: Friend Review Liker. You can now automatically like all reviews from your friends for a specific film directly from the Letterboxd movie page. This adds a new button to the sidebar, which can be toggled off in Settings.",
+    "- UI Overhaul: A complete visual refresh featuring a more polished interface with sleeker charts, modern controls, new typography, and improved layout.",
+    "- Critical Fix: Resolved an issue where users were incorrectly added to the Block List during mass follow tasks. You should review your persistent Block List to remove any false positives.",
+    "- Account statistics now update during Follow actions as well as partial Unfollower Finder scans",
+    "- Improved the speed, efficiency, and reliability of all automation tasks.",
+    "- Added specific detection and guidance for IP-based rate limits.",
+    "- Various other bug fixes and internal improvements."
+  ],
   "22.5": [
     "- Complete UI Overhaul: Enjoy a brand new, cleaner, and more modern interface in both light and dark modes.",
     "- New! Account Stats: A new card on your dashboard tracks your Following, Followers, Reviews, and Review Likes over time with interactive, animated charts.",
