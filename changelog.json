@@ -2,13 +2,13 @@
   "24.0": [
     "- UI Polish: Further improvements to the interface for a sleeker, more modern, and intuitive experience.",
     "- New! Deep Insights: The Account Stats dashboard now features Follower Ratio and Average Likes per Review metrics for a deeper understanding of your profile performance.",
-    "- Header Controls: Added a dedicated Theme Switcher to the top bar. The version badge is now interactive—click it to manually check for updates.",
+    "- Header Controls: Added a dedicated Theme Switcher to the top bar. The version badge is now interactive. Click it to check for updates.",
     "- Improved Debt Baseline: Setting a baseline in the Engagement Hub now zeroes out your debt without erasing your historical \"Likes Given\" data.",
     "- Smart Log Drawer: The log drawer has been rebuilt. It auto-hides on the Settings tab, respects your scroll position (no more forced scrolling), and features a notification dot for unread entries.",
     "- Stability Fix: Tasks are now resilient against the \"Tabs cannot be edited\" browser error, preventing crashes if you interact with tabs while a process is starting (though it is still recommended to avoid doing so).",
     "- Critical Bug Fix: Resolved an issue where users who had blocked you were not correctly detected, ensuring they are properly added to the persistent Block List.",
     "- Friend Liker Upgrade: Improved the reliability and progress tracking of the \"Like Friends' Reviews\" task.",
-    "- Various other bug fixes, safety improvements, and performance optimizations."
+    "- Various other bug fixes, safety improvements, and performance optimisations."
   ],
   "23.0": [
     "- New: Friend Review Liker. You can now automatically like all reviews from your friends for a specific film directly from the Letterboxd movie page. This adds a new button to the sidebar, which can be toggled off in Settings.",
