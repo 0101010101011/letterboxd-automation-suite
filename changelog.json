@@ -1,4 +1,11 @@
 {
+  "25.0": [
+    "- Tuned the Unfollower Finder and Engagement List builder to be significantly faster.",
+    "- Optimized Auto-Liker and Debt Payoff tasks for increased speed and better handling of network interruptions.",
+    "- The verification pass is now much faster and operates entirely in the background without opening new tabs. The default verification limit has been increased from 30 to 500 users.",
+    "- Refined the log drawer with smarter auto-scroll behaviour and new management controls. Log entries are no longer truncated.",
+    "- Resolved various bugs and implemented internal stability improvements."
+  ],
   "24.0": [
     "- UI Polish: Further improvements to the interface for a sleeker, more modern, and intuitive experience.",
     "- New! Deep Insights: The Account Stats dashboard now features Follower Ratio and Average Likes per Review metrics for a deeper understanding of your profile performance.",
