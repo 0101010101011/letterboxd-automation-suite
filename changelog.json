@@ -1,9 +1,10 @@
 {
   "25.0": [
     "- Tuned the Unfollower Finder and Engagement List builder to be significantly faster.",
-    "- Optimized Auto-Liker and Debt Payoff tasks for increased speed and better handling of network interruptions.",
+    "- Optimised Auto-Liker and Debt Payoff tasks for increased speed and better handling of network interruptions.",
     "- The verification pass is now much faster and operates entirely in the background without opening new tabs. The default verification limit has been increased from 30 to 500 users.",
     "- Refined the log drawer with smarter auto-scroll behaviour and new management controls. Log entries are no longer truncated.",
+    "- The \"Focus active tab\" toggle has been moved from the settings tab to a dedicated button on the top bar for instant access from anywhere in the UI.",
     "- Resolved various bugs and implemented internal stability improvements."
   ],
   "24.0": [
