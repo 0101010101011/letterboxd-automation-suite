@@ -1,4 +1,16 @@
 {
+  "26.0": [
+    "- Happy New Year, and thank you for your support! <3",
+    "- Overhauled the Automated Mass Follower with a new UI and added 'Target User' and 'Film Audience' modes.",
+    "- Optimised the Engagement List to support very large accounts and significantly reduce storage usage.",
+    "- Increased the Auto-Liker limit from 12 to 50 likes per user.",
+    "- Increased the Debt Payoff batch size from 5 to 10 likes per pass.",
+    "- Added smart retry logic to make tasks more resilient to network instability.",
+    "- Streamlined process logs to reduce clutter and improve readability.",
+    "- Fixed issues with the Copy/Export Log functions.",
+    "- Added a visual indicator for stale Engagement Lists and lowered the warning threshold from 7 to 3 days.",
+    "- Fixed various other bugs to improve stability."
+  ],
   "25.0": [
     "- Tuned the Unfollower Finder and Engagement List builder to be significantly faster.",
     "- Optimised Auto-Liker and Debt Payoff tasks for increased speed and better handling of network interruptions.",
