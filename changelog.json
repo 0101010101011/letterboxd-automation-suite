@@ -1,9 +1,9 @@
 {
   "27.0": [
     "- Friend Liker 2.0: Completely re-engineered for speed and reliability. Now uses concurrent tabs, supports liking multiple reviews per friend, and features an accurate progress bar.",
-    "- Mass Follow Update: When targeting a film audience, the scanner now prioritizes quality by filtering for users who rated the film 4 stars or higher.",
-    "- Optimized the Review Auto-Liker to handle massive task queues without freezing the extension interface.",
-    "- Reduced log clutter for Mass Follower and27 other background tasks.",
+    "- Mass Follow Update: When targeting a film audience, the scanner now prioritises quality by filtering for users who rated the film 4 stars or higher.",
+    "- Optimised the Review Auto-Liker to handle massive task queues without freezing the extension interface.",
+    "- Reduced log clutter for Mass Follower and other background tasks.",
     "- Fixed a bug where exported logs contained stale history from previous sessions.",
     "- Exported filenames now automatically match the user's local date format.",
     "- Increased the default 'Debt Payoff' session budget from 100 to 300 likes.",
