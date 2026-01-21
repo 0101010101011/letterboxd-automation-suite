@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "id": "welcome_msg_001",
+      "date": "2026-01-21",
+      "type": "info",
+      "title": "Welcome to the News Feed",
+      "body": "We have added a news section to keep you updated on new features, patch notes, and known issues directly within the extension."
+    },
+    {
+      "id": "tip_focus_mode",
+      "date": "2026-01-20",
+      "type": "alert",
+      "title": "New Feature: Friend Liker",
+      "body": "You can now automatically like reviews from your friends! Go to a film page on Letterboxd and look for the new button in the sidebar."
+    }
+  ]
+}
