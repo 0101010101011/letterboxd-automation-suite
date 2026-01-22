@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "msg_1769098754085_707",
+      "date": "2026-01-22",
+      "type": "alert",
+      "title": "Letterboxd Rate Limiting",
+      "body": "We've recently had this issue but it now seem to be resolved. Please limit your scans to one a day to avoid further issues."
+    },
+    {
       "id": "welcome_msg_001",
       "date": "2026-01-21",
       "type": "info",
