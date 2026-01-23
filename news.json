@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "msg_1769197827873_289",
+      "date": "2026-01-23",
+      "type": "warning",
+      "title": "Attention",
+      "body": "Service is a bit slow atm."
+    },
+    {
       "id": "msg_1769098754085_707",
       "date": "2026-01-22",
       "type": "alert",
