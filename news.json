@@ -1,18 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1769197827873_289",
-      "date": "2026-01-23",
-      "type": "warning",
-      "title": "Attention",
-      "body": "Service is a bit slow atm."
-    },
-    {
       "id": "msg_1769098754085_707",
       "date": "2026-01-22",
-      "type": "alert",
+      "type": "warning",
       "title": "Letterboxd Rate Limiting",
-      "body": "We've recently had this issue but it now seem to be resolved. Please limit your scans to one a day to avoid further issues."
+      "body": "We've recently had an issue with Letterboxd implementing aggresive rate limiting which caused the Unfollower Finder to stop working. This has been resolved after 2 days and hopefully it was a one off anomaly. Please limit your scans to one a day for now to avoid further issues."
     },
     {
       "id": "welcome_msg_001",
@@ -20,13 +13,6 @@
       "type": "info",
       "title": "Welcome to the News Feed",
       "body": "We have added a news section to keep you updated on new features, patch notes, and known issues directly within the extension."
-    },
-    {
-      "id": "tip_focus_mode",
-      "date": "2026-01-20",
-      "type": "alert",
-      "title": "New Feature: Friend Liker",
-      "body": "You can now automatically like reviews from your friends! Go to a film page on Letterboxd and look for the new button in the sidebar."
     }
   ]
 }
