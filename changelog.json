@@ -1,4 +1,14 @@
 {
+  "28.0": [
+    "- Added an in-app News Feed for updates and announcements.",
+    "- Added a direct Feedback & Bug Report button to the header.",
+    "- Extended Account Stats charts to show the last 30 data points (previously 10).",
+    "- Reordered tabs: The Results tab is now immediately next to the Dashboard.",
+    "- Performance optimisations to prevent UI freezing during large Auto-Liker tasks.",
+    "- Friend Liker now limits engagement to 10 reviews per friend per film to prevent spamming.",
+    "- Account Stats now update in real-time to prevent data loss on stopped tasks.",
+    "- Various other bug fixes and stability improvements."
+  ],
   "27.0": [
     "- Friend Liker 2.0: Completely re-engineered for speed and reliability. Now uses concurrent tabs, supports liking multiple reviews per friend, and features an accurate progress bar.",
     "- Mass Follow Update: When targeting a film audience, the scanner now prioritises quality by filtering for users who rated the film 4 stars or higher.",
