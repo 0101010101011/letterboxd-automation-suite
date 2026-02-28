@@ -1,4 +1,15 @@
 {
+  "29.0": [
+    "- The Engagement List now uses data compression, drastically reducing storage footprint and improving efficiency.",
+    "- Improved the safety and accuracy of the \"Follows Me\" status when dealing with incomplete scans.",
+    "- You can now set a \"grace period\" for engaged users you recently followed, preventing the extension from prematurely unfollowing them.",
+    "- The dashboard's Account Stats charts can now automatically detect and \"self-heal\" data anomalies caused by incomplete scans.",
+    "- Engagement list updates will now abort immediately if a single page fails after its retries, preventing corrupted data from being saved.",
+    "- Added a button to the Settings page to quickly restore recommended default settings.",
+    "- Various under-the-hood improvements for speed and stability.",
+    "- Visual refinements to the dashboard and process logs for better readability.",
+    "- Numerous bug fixes."
+  ],
   "28.0": [
     "- Added an in-app News Feed for updates and announcements.",
     "- Added a direct Feedback & Bug Report button to the header.",
