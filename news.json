@@ -1,18 +1,18 @@
 {
   "messages": [
     {
+      "id": "msg_1772320811305_966",
+      "date": "2026-02-28",
+      "type": "info",
+      "title": "Heads up! Sales are taking a brief pause after March 20th.",
+      "body": "I'm relocating to a new country, which means I need to pause sales temporarily after March 20th while I set up a new payment processor. If you know anyone who has been meaning to pick up the extension, tell them to grab it at the promotional price before the cutoff date! Don't worry, development will continue uninterrupted, and sales will be back online as soon as everything is set up."
+    },
+    {
       "id": "msg_1769098754085_707",
       "date": "2026-01-22",
       "type": "warning",
       "title": "Letterboxd Rate Limiting",
       "body": "We've recently had an issue with Letterboxd implementing aggresive rate limiting which caused the Unfollower Finder to stop working. This has been resolved after 2 days and hopefully it was a one off anomaly. Please limit your scans to one a day for now to avoid further issues."
-    },
-    {
-      "id": "welcome_msg_001",
-      "date": "2026-01-21",
-      "type": "info",
-      "title": "Welcome to the News Feed",
-      "body": "We have added a news section to keep you updated on new features, patch notes, and known issues directly within the extension."
     }
   ]
 }
