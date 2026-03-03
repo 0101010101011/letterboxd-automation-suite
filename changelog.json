@@ -1,4 +1,7 @@
 {
+  "29.3": [
+    "- Fixed a bug with the Engagement List 'Select All' checkbox and resolved various other minor issues."
+  ],
   "29.0": [
     "- The Engagement List now uses data compression, drastically reducing storage footprint and improving efficiency.",
     "- Improved the safety and accuracy of the \"Follows Me\" status when dealing with incomplete scans.",
