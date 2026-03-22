@@ -1,11 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1772320811305_966",
-      "date": "2026-02-28",
+      "id": "msg_1774198116817_114",
+      "date": "2026-03-22",
       "type": "info",
-      "title": "Heads up! Sales are taking a brief pause after March 20th.",
-      "body": "I'm relocating to a new country, which means I need to pause sales temporarily after March 20th while I set up a new payment processor. If you know anyone who has been meaning to pick up the extension, tell them to grab it at the promotional price before the cutoff date! Don't worry, development will continue uninterrupted, and sales will be back online as soon as everything is set up."
+      "title": "New sales are currently on a brief pause.",
+      "body": "I'm relocating to a new country, which means I need to pause sales temporarily while I set up a new payment processor. Don't worry, development will continue uninterrupted, and sales will be back online as soon as everything is set up. in the meantime, please check out the new update (version 30) which brings many bug fixes."
     },
     {
       "id": "msg_1769098754085_707",
