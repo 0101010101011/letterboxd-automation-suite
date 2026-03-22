@@ -1,4 +1,14 @@
 {
+  "30.0": [
+    "- Fixed an issue preventing progress data from saving correctly during Review Auto-Liker tasks.",
+    "- Fixed a bug causing double-counting of liked reviews.",
+    "- Fixed a UI issue where unusually long usernames would break the layout of the Engagement List.",
+    "- Fixed an issue with chart tooltips displaying incorrectly on smaller screens.",
+    "- Improved the Pause button to halt tasks and background pre-flight checks immediately.",
+    "- Ensured the UI correctly refreshes and clears stale data when changing the active username.",
+    "- Improved compatibility for regional date formats in exported filenames.",
+    "- Various other under-the-hood stability improvements and minor bug fixes."
+  ],
   "29.3": [
     "- Fixed a bug with the Engagement List 'Select All' checkbox and resolved various other minor issues."
   ],
