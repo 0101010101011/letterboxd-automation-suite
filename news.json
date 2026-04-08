@@ -1,11 +1,18 @@
 {
   "messages": [
     {
+      "id": "msg_1775675907817_551",
+      "date": "2026-04-08",
+      "type": "info",
+      "title": "Kushington is now NeonSyntax",
+      "body": "It was time for a refresh! My developer handle is officially changing from Kushington to NeonSyntax. You’ll start seeing the new name on my itch.io page and Letterboxd profile, and the upcoming v31.0 update will bring the extension’s branding fully in line with the change."
+    },
+    {
       "id": "msg_1774198116817_114",
       "date": "2026-03-22",
       "type": "info",
-      "title": "New sales are currently on a brief pause.",
-      "body": "I'm relocating to a new country, which means I need to pause sales temporarily while I set up a new payment processor. Don't worry, development will continue uninterrupted, and sales will be back online as soon as everything is set up. in the meantime, please check out the new update (version 30) which brings many bug fixes."
+      "title": "Sales are back online!",
+      "body": "The shop is back open! As promised, sales have resumed, and I’m running a massive 40% off sale. Feel free to spread the word to anyone who might want to upgrade their Letterboxd experience. Thank you all for the amazing support!"
     },
     {
       "id": "msg_1769098754085_707",
