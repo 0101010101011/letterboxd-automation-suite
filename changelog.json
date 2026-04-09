@@ -1,4 +1,8 @@
 {
+  "30.5": [
+    "- Updated the branding, replacing the developer handle and relevant links.",
+    "- Various bug fixes and optimisations."
+  ],
   "30.0": [
     "- Fixed an issue preventing progress data from saving correctly during Review Auto-Liker tasks.",
     "- Fixed a bug causing double-counting of liked reviews.",
