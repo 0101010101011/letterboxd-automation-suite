@@ -8,18 +8,11 @@
       "body": "It was time for a refresh! My developer handle is officially changing from Kushington to NeonSyntax. You’ll start seeing the new name on my itch.io page and Letterboxd profile, and the upcoming v30.5 update will bring the extension’s branding fully in line with the change."
     },
     {
-      "id": "msg_1774198116817_114",
-      "date": "2026-03-22",
-      "type": "info",
-      "title": "Sales are back online!",
-      "body": "The shop is back open! As promised, sales have resumed, and I’m running a massive 50% off sale. Feel free to spread the word to anyone who might want to upgrade their Letterboxd experience. Thank you all for the amazing support!"
-    },
-    {
       "id": "msg_1769098754085_707",
       "date": "2026-01-22",
       "type": "warning",
       "title": "Letterboxd Rate Limiting",
-      "body": "We've recently had an issue with Letterboxd implementing aggresive rate limiting which caused the Unfollower Finder to stop working. This has been resolved after 2 days and hopefully it was a one off anomaly. Please limit your scans to one a day for now to avoid further issues."
+      "body": "We've recently had an issue with Letterboxd implementing aggressive rate limiting which caused the Unfollower Finder to stop working. This has been resolved after 2 days and hopefully it was a one off anomaly. Please limit your scans to one or two a day to avoid further issues."
     }
   ]
 }
