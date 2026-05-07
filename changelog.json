@@ -1,4 +1,14 @@
 {
+  "31.0": [
+    "- Added a new profile switcher with full support for managing multiple Letterboxd accounts.",
+    "- Completely revamped the welcome screen and initial onboarding experience.",
+    "- The extension now automatically detects if you change your own username and seamlessly migrates your local data.",
+    "- Smart Identity Tracking: Detects when an engaged user changes their handle and securely preserves their historical stats.",
+    "- Optimized the Automated Mass Follower to bypass empty profiles (users with 0 followers) significantly faster.",
+    "- Fixed a bug where setting the unfollow grace period to 0 days failed to disable the feature.",
+    "- Fixed an issue causing incomplete background logs during the Smart Unfollow and Friend Liker tasks.",
+    "- Various UI improvements, Light Mode contrast adjustments, and under-the-hood code optimizations."
+  ],
   "30.5": [
     "- Updated the branding, replacing the developer handle and relevant links. The project page link is now neonsyntax.itch.io/letterboxd-unfollower-finder",
     "- Various bug fixes and optimisations."
