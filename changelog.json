@@ -2,7 +2,6 @@
   "31.0": [
     "- Added a new profile switcher with full support for managing multiple Letterboxd accounts.",
     "- Completely revamped the welcome screen and initial onboarding experience.",
-    "- The extension now automatically detects if you change your own username and seamlessly migrates your local data.",
     "- Smart Identity Tracking: Detects when an engaged user changes their handle and securely preserves their historical stats.",
     "- Optimized the Automated Mass Follower to bypass empty profiles (users with 0 followers) significantly faster.",
     "- Fixed a bug where setting the unfollow grace period to 0 days failed to disable the feature.",
