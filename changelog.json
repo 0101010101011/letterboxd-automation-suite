@@ -1,4 +1,8 @@
 {
+  "31.5": [
+    "Fixed a bug which caused the Unfollower Finder to not start properly in some cases",
+    "- The extension now automatically detects if you change your own username and seamlessly migrates your local data."
+  ],
   "31.0": [
     "- Added a new profile switcher with full support for managing multiple Letterboxd accounts.",
     "- Completely revamped the welcome screen and initial onboarding experience.",
