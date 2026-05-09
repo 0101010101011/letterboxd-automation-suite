@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "msg_1778351957210_273",
+      "date": "2026-05-09",
+      "type": "info",
+      "title": "Recent Updates",
+      "body": "You might have noticed a flurry of updates recently; three in three days, to be exact! While I typically prefer to bundle improvements into a larger monthly release, a few critical bugs popped up that I wanted to squash immediately so you wouldn't have to wait for a fix.\n\nThings are smoothed out now, and we will be returning to our regular update cadence moving forward. Thank you so much for your patience and for continuing to use the software!"
+    },
+    {
       "id": "msg_1775675907817_551",
       "date": "2026-04-08",
       "type": "info",
