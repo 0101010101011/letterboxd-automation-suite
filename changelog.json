@@ -1,4 +1,9 @@
 {
+  "31.7": [
+    "- Added a loading screen for the Engagement Tab.",
+    "- Fixed a stubborn bug related to the Unfollower Finder.",
+    "- Other bug fixes and optimisations."
+  ],
   "31.5": [
     "- Fixed a bug which caused the Unfollower Finder to not start properly in some cases.",
     "- The extension now automatically detects if you change your own username and seamlessly migrates your local data."
