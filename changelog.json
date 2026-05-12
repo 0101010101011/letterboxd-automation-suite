@@ -1,4 +1,8 @@
 {
+  "31.8": [
+    "Minor update. Fixed a couple of bugs related to the Review Auto Liker saving incomplete tasks even when they finished successfully.",
+    "Cleaned up the logs."
+  ],
   "31.7": [
     "- Added a loading screen for the Engagement Tab.",
     "- Fixed a stubborn bug related to the Unfollower Finder.",
