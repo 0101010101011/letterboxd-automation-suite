@@ -1,4 +1,9 @@
 {
+  "32.0": [
+    "- Added the option to automatically like up to 10 recent reviews of users followed during Automated Mass Follow tasks.",
+    "- Improved the performance and rendering efficiency of the Account Stats charts.",
+    "- Minor bug fixes and under-the-hood performance improvements."
+  ],
   "31.8": [
     "- Minor update. Fixed a couple of bugs related to the Review Auto Liker saving incomplete tasks even when they finished successfully.",
     "- Cleaned up the logs."
