@@ -3,16 +3,9 @@
     {
       "id": "msg_1780514559292_563",
       "date": "2026-06-03",
-      "type": "alert",
+      "type": "info",
       "title": "🚀 v33.0: Say Goodbye to Manual Updates!",
-      "body": "I'm thrilled to introduce seamless, automatic updates using the official Itch.io Desktop App! No more downloading .zip files or replacing folders manually. Once set up, your extension will automatically download and reload itself whenever a new version drops. Please read the Updating section of the User Guide for quick instructions on how to migrate to the new system. (And if you prefer the old way, don't worry. You can still do manual updates just like before!)"
-    },
-    {
-      "id": "msg_1769098754085_707",
-      "date": "2026-01-22",
-      "type": "warning",
-      "title": "Letterboxd Rate Limiting",
-      "body": "We've recently had an issue with Letterboxd implementing aggressive rate limiting which caused the Unfollower Finder to stop working. This has been resolved after 2 days and hopefully it was a one off anomaly. Please limit your scans to one or two a day to avoid further issues."
+      "body": "I'm thrilled to introduce seamless, automatic updates using the official Itch.io Desktop App! No more downloading .zip files or replacing folders manually. Once set up, your extension will automatically download and reload itself whenever a new version drops.\n\nVersion 33.0 also comes packed with some major UI repolishing and visual improvements that I hope you'll enjoy!\n\nPlease read the Updating section of the User Guide for quick instructions on how to migrate to the new system. (And if you prefer the old way, don't worry. You can still do manual updates just like before!)"
     }
   ]
 }
