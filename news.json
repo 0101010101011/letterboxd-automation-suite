@@ -1,11 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1778351957210_273",
-      "date": "2026-05-09",
-      "type": "info",
-      "title": "Recent Updates",
-      "body": "You might have noticed a flurry of updates recently. While I typically prefer to bundle improvements into a larger monthly release, a few critical bugs popped up that I wanted to squash immediately so you wouldn't have to wait for a fix.\n\nThings are smoothed out now, and we will be returning to our regular update cadence moving forward. Thank you so much for your patience and for continuing to use the software!"
+      "id": "msg_1780514559292_563",
+      "date": "2026-06-03",
+      "type": "alert",
+      "title": "🚀 v33.0: Say Goodbye to Manual Updates!",
+      "body": "I'm thrilled to introduce seamless, automatic updates using the official Itch.io Desktop App! No more downloading .zip files or replacing folders manually. Once set up, your extension will automatically download and reload itself whenever a new version drops. Please read the Updating section of the User Guide for quick instructions on how to migrate to the new system. (And if you prefer the old way, don't worry. You can still do manual updates just like before!)"
     },
     {
       "id": "msg_1769098754085_707",
