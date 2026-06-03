@@ -1,4 +1,11 @@
 {
+  "33.0": [
+    "- Added support for seamless extension updates using the Itch.io Desktop App for Windows, Mac, and Linux. See the User Guide for migration steps.",
+    "- Complete UI repolish including refined fonts, updated visual effects, and new animations.",
+    "- Improved the responsiveness and handling of the Engagement List and Log Drawer when dragging or resizing.",
+    "- Upgraded the Engagement List controls for better usability.",
+    "- Resolved an issue causing some UI elements to remain clickable during active tasks."
+  ],
   "32.0": [
     "- Added the option to automatically like up to 10 recent reviews of users followed during Automated Mass Follow tasks.",
     "- Improved the performance and rendering efficiency of the Account Stats charts.",
