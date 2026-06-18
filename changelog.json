@@ -1,4 +1,15 @@
 {
+  "34.0": [
+    "- Added a new column and advanced filters to the Engagement List to display reciprocation percentages. You can now easily identify and exclude low reciprocators, whilst queuing them for the Smart Unfollower.",
+    "- Drastically reduced CPU usage and improved overall speed, making the extension feel snappier than ever.",
+    "- Added automatic Captcha detection to prevent tasks from failing silently when Letterboxd requires verification.",
+    "- Fixed bugs related to page progress memory, which will significantly accelerate all review liking tasks moving forward.",
+    "- Improved resource management for heavy, multi-tabbed tasks.",
+    "- Improved the rendering of charts, the engagement list, and scan results for a much smoother experience.",
+    "- The action log has been optimized and can now efficiently handle up to 10,000 entries without lagging.",
+    "- Resolved an issue where news feed entries would incorrectly appear as unread after an extension update.",
+    "- General code clean-up, structural optimizations, and minor bug fixes to improve overall stability."
+  ],
   "33.0": [
     "- Added support for seamless extension updates using the Itch.io Desktop App for Windows, Mac, and Linux. See the User Guide for migration steps.",
     "- Complete UI repolish including refined fonts, updated visual effects, and new animations.",
