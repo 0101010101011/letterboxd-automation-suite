@@ -1,11 +1,18 @@
 {
   "messages": [
     {
+      "id": "msg_1782053563223_831",
+      "date": "2026-06-21",
+      "type": "info",
+      "title": "📖 User Guide & Video Tutorial Updated!",
+      "body": "The User Guide has been completely refreshed! We've added a brand new video tutorial and updated the written instructions to cover every nuance of the new Itch.io automatic update workflow. If you haven't migrated to the Itch app yet, be sure to check out the updated guide to see how easy it is to set up!"
+    },
+    {
       "id": "msg_1780514559292_563",
       "date": "2026-06-03",
       "type": "info",
-      "title": "🚀 v33.0: Say Goodbye to Manual Updates!",
-      "body": "I'm thrilled to introduce seamless, automatic updates using the official Itch.io Desktop App! No more downloading .zip files or replacing folders manually. Once set up, your extension will automatically download and reload itself whenever a new version drops.\n\nVersion 33.0 also comes packed with some major UI repolishing and visual improvements that I hope you'll enjoy!\n\nPlease read the Updating section of the User Guide for quick instructions on how to migrate to the new system. (And if you prefer the old way, don't worry. You can still do manual updates just like before!)"
+      "title": "Say Goodbye to Manual Updates!",
+      "body": "I'm thrilled to introduce seamless, automatic updates using the official Itch.io Desktop App! No more downloading .zip files or replacing folders manually. Once set up, your extension will automatically download and reload itself whenever a new version drops.\n\nPlease read the User Guide for quick instructions on how to migrate to the new system. (And if you prefer the old way, don't worry. You can still do manual updates just like before!)"
     }
   ]
 }
