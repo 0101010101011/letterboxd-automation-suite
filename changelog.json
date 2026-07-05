@@ -1,4 +1,7 @@
 {
+  "35.2": [
+    "- Fixed a couple of minor visual issues related to the Engagement List filters control panel."
+  ],
   "35.0": [
     "- Mass Follower tasks no longer steal browser focus while running. Throttling protection has been greatly improved and its setting toggle has been removed. The optional \"Focus Mode\" remains available if you want to observe active tabs.",
     "- Added a new control panel to easily configure your engagement list filters.",
