@@ -1,4 +1,13 @@
 {
+  "35.0": [
+    "- Mass Follower tasks no longer steal browser focus while running. Throttling protection has been greatly improved and its setting toggle has been removed. The optional \"Focus Mode\" remains available if you want to observe active tabs.",
+    "- Added a new control panel to easily configure your engagement list filters.",
+    "- Redesigned the Friend Liker button and improved its behaviour to accurately track live task states.",
+    "- Expanded the Grace Period unfollow protection to include all recently followed users. They are now unchecked by default and feature a new status icon in the results.",
+    "- Pausing any task now takes effect instantly and automatically closes active worker tabs to save memory until resumed.",
+    "- Fixed multiple bugs, including an issue that caused update notifications to get stuck.",
+    "- Refined logs."
+  ],
   "34.5": [
     "- Fixed a bug that incorrectly hid recently followed users from the \"Not Following Back\" results list for 30 days.",
     "- Added global protection against \"troll\" display names. Excessively long or invisible HTML display names are now automatically detected and replaced with the clean username before they can break the extension UI.",
