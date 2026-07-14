@@ -1,4 +1,12 @@
 {
+  "36.0": [
+    "- The Excluded Users list is now a built-in filter directly inside the Engagement Hub for a much richer experience.",
+    "- Added a confirmation safeguard to the \"Exclude from Engaged List\" button.",
+    "- Resolved multiple bugs related to the Debt Payoff system to ensure reliable tracking.",
+    "- Corrected a visual glitch that caused results lists to appear empty until scrolled.",
+    "- Polished minor visual issues in the Engagement List control panel.",
+    "- General bug fixes and stability improvements."
+  ],
   "35.2": [
     "- Fixed a couple of minor visual issues related to the Engagement List filters control panel."
   ],
