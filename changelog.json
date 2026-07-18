@@ -1,4 +1,9 @@
 {
+  "36.3": [
+    "- Fixed a bunch of bugs related to the Unfollower Finder Scan results tab.",
+    "- Refined the end of task summary logs across the entire extension.",
+    "- Other minor bug fixes."
+  ],
   "36.0": [
     "- The Excluded Users list is now a built-in filter directly inside the Engagement Hub for a much richer experience.",
     "- Added a confirmation safeguard to the \"Exclude from Engaged List\" button.",
