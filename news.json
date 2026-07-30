@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "msg_1785405836297_306",
+      "date": "2026-07-30",
+      "type": "alert",
+      "title": "Review Liking Tasks Temporarily Broken",
+      "body": "Letterboxd has updated their website code, which has temporarily broken the Auto-Liker and Debt Payoff tools. Right now, running these tools will accidentally unlike reviews you've previously liked. Please avoid using these specific tasks for the time being. I am working on it and will push a fix in the next few hours!"
+    },
+    {
       "id": "msg_1782053563223_831",
       "date": "2026-06-21",
       "type": "info",
