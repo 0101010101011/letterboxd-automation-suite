@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "msg_1785413028951_325",
+      "date": "2026-07-30",
+      "type": "info",
+      "title": "Recommendation: Reset Liker Progress",
+      "body": "Due to the recent liker bug, we highly recommend resetting your liker progress memory. This ensures the extension can find and re-like any reviews it may have missed without skipping over them.\nTo do this: Go to your Engagement tab ➔ click the checkbox at the top-left to Select All users ➔ click the circular arrow icon (\"Reset Liker Progress\") in the action bar at the bottom.\n(Tip: It's a good idea to do this once in a while anyway, but it's especially recommended right now!)"
+    },
+    {
       "id": "msg_1785409728720_202",
       "date": "2026-07-30",
       "type": "warning",
@@ -13,13 +20,6 @@
       "type": "info",
       "title": "📖 User Guide & Video Tutorial Updated!",
       "body": "The User Guide has been completely refreshed! We've added a brand new video tutorial and updated the written instructions to cover every nuance of the new Itch.io automatic update workflow. If you haven't migrated to the Itch app yet, be sure to check out the updated guide to see how easy it is to set up!"
-    },
-    {
-      "id": "msg_1780514559292_563",
-      "date": "2026-06-03",
-      "type": "info",
-      "title": "Say Goodbye to Manual Updates!",
-      "body": "I'm thrilled to introduce seamless, automatic updates using the official Itch.io Desktop App! No more downloading .zip files or replacing folders manually. Once set up, your extension will automatically download and reload itself whenever a new version drops.\n\nPlease read the User Guide for quick instructions on how to migrate to the new system. (And if you prefer the old way, don't worry. You can still do manual updates just like before!)"
     }
   ]
 }
