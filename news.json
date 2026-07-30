@@ -1,11 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1785405836297_306",
+      "id": "msg_1785409728720_202",
       "date": "2026-07-30",
-      "type": "alert",
-      "title": "Review Liking Tasks Temporarily Broken",
-      "body": "Letterboxd has updated their website code, which has temporarily broken the Auto-Liker and Debt Payoff tools. Right now, running these tools will accidentally unlike reviews you've previously liked. Please avoid using these specific tasks for the time being. I am working on it and will push a fix in the next few hours!"
+      "type": "warning",
+      "title": "FIXED: Review Liking Tasks (Please Update!)",
+      "body": "Letterboxd recently updated their website code, which temporarily broke all review liking tasks (including the Auto-Liker, Debt Payoff, Friend Liker, and Mass Follower liker). The bug caused the extension to accidentally unlike reviews you had previously liked.\nThis issue has now been completely fixed in version 36.7.\nPlease ensure your extension is updated to version 36.7 or newer before running any review liking tasks to avoid accidentally unliking your past reviews!"
     },
     {
       "id": "msg_1782053563223_831",
