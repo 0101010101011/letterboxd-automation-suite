@@ -1,4 +1,11 @@
 {
+  "37.0": [
+    "- Added a reload button to the extension UI.",
+    "- Improved the Unfollower Finder scan to be more resilient against slow-loading pages, especially for large accounts.",
+    "- Fixed an issue with the log history that was causing some logs to be lost.",
+    "- Fixed a bug that caused the Mass Follower to skip a page when encountering a user who blocked you.",
+    "- Various other bug fixes."
+  ],
   "36.7": [
     "- Review-liking tasks (such as the Auto-Liker and Debt Payoff) have been fully restored after recent code changes on Letterboxd's website temporarily broke them.",
     "- The log drawer now features a history menu for your last 5 tasks, along with helpful tooltips for all log controls.",
