@@ -1,4 +1,11 @@
 {
+  "37.3": [
+    "- Added an option to hide the \"Followers You Don't Follow Back\" list from results.",
+    "- Improved Review Liker resilience against slow networks to guarantee it never accidentally unlikes reviews.",
+    "- Upgraded link parsing logic to reliably handle complex URLs and edge cases.",
+    "- Optimized data processing to drastically reduce memory usage during large tasks.",
+    "- General under-the-hood bug fixes and stability improvements."
+  ],
   "37.0": [
     "- Added a reload button to the extension UI.",
     "- Improved the Unfollower Finder scan to be more resilient against slow-loading pages, especially for large accounts.",
