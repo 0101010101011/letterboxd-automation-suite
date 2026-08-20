@@ -1,4 +1,10 @@
 {
+  "37.5": [
+    "- Unprotected users are now prioritized and displayed at the top of the \"Not Following Back\" results list.",
+    "- Added and refined tooltips across the interface to improve clarity. For example, hovering over a protected user's shield icon now displays their remaining protection time.",
+    "- Increased the resilience of the Automated Follow task to better handle slow-loading pages and network timeouts.",
+    "- Various other bug fixes."
+  ],
   "37.3": [
     "- Added an option to hide the \"Followers You Don't Follow Back\" list from results.",
     "- Improved Review Liker resilience against slow networks to guarantee it never accidentally unlikes reviews.",
