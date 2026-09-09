@@ -1,25 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1785413028951_325",
-      "date": "2026-07-30",
+      "id": "msg_1788965548631_218",
+      "date": "2026-09-09",
       "type": "info",
-      "title": "Recommendation: Reset Liker Progress",
-      "body": "Due to the recent liker bug, we highly recommend resetting your liker progress memory. This ensures the extension can find and re-like any reviews it may have missed without skipping over them.\nTo do this: Go to your Engagement tab ➔ click the checkbox at the top-left to Select All users ➔ click the circular arrow icon (\"Reset Liker Progress\") in the action bar at the bottom.\n(Tip: It's a good idea to do this once in a while anyway, but it's especially recommended right now!)"
-    },
-    {
-      "id": "msg_1785409728720_202",
-      "date": "2026-07-30",
-      "type": "warning",
-      "title": "FIXED: Review Liking Tasks (Please Update!)",
-      "body": "Letterboxd recently updated their website code, which temporarily broke all review liking tasks (including the Auto-Liker, Debt Payoff, Friend Liker, and Mass Follower liker). The bug caused the extension to accidentally unlike reviews you had previously liked.\nThis issue has now been completely fixed in version 36.7.\nPlease ensure your extension is updated to version 36.7 or newer before running any review liking tasks to avoid accidentally unliking your past reviews!"
-    },
-    {
-      "id": "msg_1782053563223_831",
-      "date": "2026-06-21",
-      "type": "info",
-      "title": "📖 User Guide & Video Tutorial Updated!",
-      "body": "The User Guide has been completely refreshed! We've added a brand new video tutorial and updated the written instructions to cover every nuance of the new Itch.io automatic update workflow. If you haven't migrated to the Itch app yet, be sure to check out the updated guide to see how easy it is to set up!"
+      "title": "UI refresh coming soon!",
+      "body": "Keep a lookout for version 38.0 which will bring a fresh coat of paint to the entire interface 👀"
     }
   ]
 }
