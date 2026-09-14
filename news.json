@@ -1,11 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1788965548631_218",
-      "date": "2026-09-09",
+      "id": "msg_1789392974105_531",
+      "date": "2026-09-14",
       "type": "info",
-      "title": "UI refresh coming soon!",
-      "body": "Keep a lookout for version 38.0 which will bring a fresh coat of paint to the entire interface 👀"
+      "title": "Version 38.0 is here!",
+      "body": "Head over to the itch.io app to grab the latest update! This release brings a major UI refresh with a cleaner, more cohesive design, intuitive new controls, and extensive stability improvements under the hood."
     }
   ]
 }
