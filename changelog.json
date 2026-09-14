@@ -1,4 +1,9 @@
 {
+  "38.0": [
+    "- Major UI refresh with a cohesive design, refined controls, and clearer dialog descriptions",
+    "- Replaced the \"Hide Excluded Users\" toggle with a direct 3-tier filter right on the Engagement table",
+    "- Comprehensive stability improvements, background process hardening, and bug fixes"
+  ],
   "37.5": [
     "- Unprotected users are now prioritized and displayed at the top of the \"Not Following Back\" results list.",
     "- Added and refined tooltips across the interface to improve clarity. For example, hovering over a protected user's shield icon now displays their remaining protection time.",
