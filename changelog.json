@@ -1,4 +1,9 @@
 {
+  "38.4": [
+    "- Fixed a bug that caused the \"Following\" chart and Account Stats card to not display or update properly.",
+    "- Resilience and efficiency optimizations.",
+    "- Various bug fixes and stability improvements."
+  ],
   "38.0": [
     "- Major UI refresh with a cohesive design, refined controls, and clearer dialog descriptions",
     "- Replaced the \"Hide Excluded Users\" toggle with a direct 3-tier filter right on the Engagement table",
