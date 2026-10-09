@@ -1,4 +1,18 @@
 {
+  "39.0": [
+    "- Further refined the UI with a sleeker design and more intuitive layout.",
+    "- Likes and follows given directly on Letterboxd (or on other devices) are now automatically detected and tracked in your daily stats.",
+    "- Automatically syncs your follower and account stats in the background every 15 minutes so your charts stay continuously up to date.",
+    "- Added 30-day growth and trend summary banners to the charts.",
+    "- Added an instant baseline for growth charts on first install so new users can track progress right away.",
+    "- The \"Not Followed Back\" list can now be filtered to display only recent followers or members on your Engagement List.",
+    "- Accounts protected by the Follow Grace Period now automatically unlock once expired without needing to re-run the scan.",
+    "- Upgraded the \"Low Reciprocators\" smart filter to calculate true Return Rate % with smart secondary sorting.",
+    "- Streamlined Engagement List filters to be clearer and more intuitive.",
+    "- Smarter handle change detection that seamlessly preserves engagement history and debt when users rename their accounts.",
+    "- Resolved tab disconnection issues so Letterboxd tabs remain active and connected even when closing and reopening the extension UI.",
+    "- Various bug fixes and performance improvements."
+  ],
   "38.4": [
     "- Fixed a bug that caused the \"Following\" chart and Account Stats card to not display or update properly.",
     "- Resilience and efficiency optimizations.",
