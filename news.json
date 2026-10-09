@@ -1,11 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1790165801402_480",
-      "date": "2026-09-23",
+      "id": "msg_1791567885787_552",
+      "date": "2026-10-09",
       "type": "info",
-      "title": "Version 38.4 is here!",
-      "body": "Head over to the itch.io app to grab the latest update! This release brings lots of bug fixes and performance improvements."
+      "title": "Version 39.0 is here!",
+      "body": "Version 39.0 is here with big upgrades to tracking and reliability! The extension now automatically detects likes and follows given directly on Letterboxd or other devices, syncs your account stats in the background every 15 minutes, adds 30-day growth banners to your charts, and brings smarter list filters with automatic grace period unlocking. We’ve also overhauled tab connectivity so you'll never lose connection when reopening the extension window. Update now for the best experience!"
     }
   ]
 }
