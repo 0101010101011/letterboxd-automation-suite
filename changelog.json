@@ -1,4 +1,10 @@
 {
+  "39.2": [
+    "- Fixed a packaging issue that prevented version 39.0 from loading during manual installation.",
+    "- Resolved an issue where the News & Updates feed could remain stuck on older cached entries.",
+    "- Added red warning highlights to reset buttons and destructive confirmation dialogs to help prevent accidental data loss.",
+    "- Cleaned up the release package by removing unnecessary development files."
+  ],
   "39.0": [
     "- Further refined the UI with a sleeker design and more intuitive layout.",
     "- Likes and follows given directly on Letterboxd (or on other devices) are now automatically detected and tracked in your daily stats.",
