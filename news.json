@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "msg_1791616560530_393",
+      "date": "2026-10-10",
+      "type": "warning",
+      "title": "Hotfix v39.2: Installation & News Feed Fixes",
+      "body": "\"We've just released a quick hotfix (v39.2) to resolve a packaging issue in v39.0 that caused errors for users installing the extension manually. This update also fixes a caching bug where the News & Updates feed could get stuck showing older announcements, cleans up unnecessary files from the release folder, and adds clearer warning highlights to destructive confirmation dialogs. If you ran into any trouble loading v39.0, please grab v39.2 for a smooth experience!"
+    },
+    {
       "id": "msg_1791567885787_552",
       "date": "2026-10-09",
       "type": "info",
