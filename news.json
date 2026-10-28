@@ -5,7 +5,7 @@
       "date": "2026-10-28",
       "type": "info",
       "title": "Version 39.7 is here!",
-      "body": "Version 39.7 is here with a major visual refresh and under-the-hood reliability improvements! The dashboard now features a sleek Bento-grid progress card, responsive account stats charts, modernized onboarding dialogs, and polished navigation controls. In the Unfollower Finder, protected accounts now unlock live in real time, and stopping any active task is now instant and safe with zero lost progress. We've also hardened connection reliability against temporary Letterboxd rate limits and fixed numerous visual and scrolling bugs. Update now for the best experience!"
+      "body": "Version 39.7 brings a sleek visual redesign across the dashboard, live grace-period unlocking in the Unfollower Finder, instant task stopping with zero lost progress, and enhanced connection stability. Update now!"
     }
   ]
 }
