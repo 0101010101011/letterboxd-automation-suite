@@ -1,18 +1,11 @@
 {
   "messages": [
     {
-      "id": "msg_1791616560530_393",
-      "date": "2026-10-10",
-      "type": "warning",
-      "title": "Hotfix v39.2: Installation & News Feed Fixes",
-      "body": "We've just released a quick hotfix (v39.2) to resolve a packaging issue in v39.0 that caused errors for users installing the extension manually. This update also fixes a caching bug where the News & Updates feed could get stuck showing older announcements, cleans up unnecessary files from the release folder, and adds clearer warning highlights to destructive confirmation dialogs. If you ran into any trouble loading v39.0, please grab v39.2 for a smooth experience!"
-    },
-    {
-      "id": "msg_1791567885787_552",
-      "date": "2026-10-09",
+      "id": "msg_1793213158139_660",
+      "date": "2026-10-28",
       "type": "info",
-      "title": "Version 39.0 is here!",
-      "body": "Version 39.0 is here with big upgrades to tracking and reliability! The extension now automatically detects likes and follows given directly on Letterboxd or other devices, syncs your account stats in the background every 15 minutes, adds 30-day growth banners to your charts, and brings smarter list filters with automatic grace period unlocking. We’ve also overhauled tab connectivity so you'll never lose connection when reopening the extension window. Update now for the best experience!"
+      "title": "Version 39.7 is here!",
+      "body": "Version 39.7 is here with a major visual refresh and under-the-hood reliability improvements! The dashboard now features a sleek Bento-grid progress card, responsive account stats charts, modernized onboarding dialogs, and polished navigation controls. In the Unfollower Finder, protected accounts now unlock live in real time, and stopping any active task is now instant and safe with zero lost progress. We've also hardened connection reliability against temporary Letterboxd rate limits and fixed numerous visual and scrolling bugs. Update now for the best experience!"
     }
   ]
 }
