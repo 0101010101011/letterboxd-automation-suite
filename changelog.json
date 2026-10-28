@@ -1,4 +1,11 @@
 {
+  "39.7": [
+    "- Extensive visual overhaul: Redesigned the task progress card and account stats charts, modernized the Welcome setup dialogs, and brought a cleaner, cohesive look to the navigation bar, Engagement List, and header buttons.",
+    "- In the Unfollower Finder, accounts whose protection expires while you're viewing the list now automatically unlock, select themselves, and float to the top with a gentle highlight animation.",
+    "- Stopping an active follow, unfollow, or like session now halts immediately and cleanly saves all your progress right up to that exact moment.",
+    "- Enhanced connection reliability, improving rate-limit handling and protection against temporary Letterboxd timeouts or verification checks.",
+    "- Dozens of bug fixes and stability improvements."
+  ],
   "39.2": [
     "- Fixed a packaging issue that prevented version 39.0 from loading during manual installation.",
     "- Resolved an issue where the News & Updates feed could remain stuck on older cached entries.",
